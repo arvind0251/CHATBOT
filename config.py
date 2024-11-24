@@ -20,13 +20,13 @@ OWNER_ID = int(getenv("OWNER_ID", "6922271843"))
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-SUPPORT_GRP = getenv("SUPPORT_GRP", "")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "khowabo")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-UPDATE_CHNL = getenv("UPDATE_CHNL", "ROY_E")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "khowabo")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-OWNER_USERNAME = getenv("OWNER_USERNAME", "HLO_PAPA")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "RU_DRA_65")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
 BOT_USERNAME = getenv("BOT_USERNAME", None)
