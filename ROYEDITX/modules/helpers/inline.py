@@ -49,7 +49,7 @@ HELP_BTN = [
 #####
 CLOSE_BTN = [
     [
-        InlineKeyboardButton(text="ʀᴇᴘᴏ", url=f"https://"),
+        InlineKeyboardButton(text="OWNER", url=f"https://RU_DRA_65"),
         InlineKeyboardButton(text="ᴄʟᴏsᴇ", callback_data="CLOSE"),
     ],
 ]
